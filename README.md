@@ -12,3 +12,6 @@ Buon lavoro!
 
 ## Svolgimento
 Completo tutti i livelli del gioco utilizzando i selettori CSS piu' adatti.
+
+## Screenshot
+![screenshot](./screenshot_level32.png)
